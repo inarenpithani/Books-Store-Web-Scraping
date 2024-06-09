@@ -18,4 +18,4 @@ https://books.toscrape.com/
 * time
 
 ## Output
-![Screenshot](https://github.com/ipithani/Books-to-Scrape/blob/main/Books%20scrape%20image.png)
+![Screenshot](https://github.com/inarenpithani/Books-Store-Web-Scraping/blob/main/Books%20scrape%20image.png)
